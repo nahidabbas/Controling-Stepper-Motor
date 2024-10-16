@@ -1,0 +1,4 @@
+ code for controlling stepper motorstep using the LV8712T driver board.F411 
+[As reference GPIO connections : (PS PIN5 GPIOC)(OE PIN9 GPIOC)(RES PIN8 GPIOC)
+(FR PIN6 GPIOC)(STEP PIN1 GPIOA)(ATT1 PIN5 GPIOB)(ATT2 PIN6 GPIOB)(MD1 PIN10 GPIOB)
+(MD2 PIN PIN11 GPIOA)(VERF PIN4 GPIOA)].
